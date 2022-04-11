@@ -1,2 +1,2 @@
 # Inventory.API
-This Is .net api demo
+This is API for the Inventory demo
